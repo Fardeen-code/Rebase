@@ -25,3 +25,4 @@ for i in range(len(l)-1):
         break
 if coun==0:
     print('true')
+print('pattern'
