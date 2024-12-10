@@ -31,3 +31,4 @@ pieces = list(map(int, input().split()))
 
 # Output the result
 print(count_combinations(N, K, pieces))
+print('thie output updation')
